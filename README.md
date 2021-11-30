@@ -1,16 +1,43 @@
-# flutter_training
+# Flutter Training
 
-A new Flutter project.
+## Este projeto é um conjunto de treinamentos feitos em flutter, focados principalmente na arquitetura com tela apenas para o necessário
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![GitHub](https://img.shields.io/github/license/DaniFBN/flutter_training)
 
-A few resources to get you started if this is your first Flutter project:
+Tópicos
+=================
+* [Sobre](#sobre)
+* [Pré-requisitos](#pre-requisitos)
+* [Instalação](#instalacao)
+* [Tecnologias](#tecnologias)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Sobre
+Seguindo os princípios de clean arch da [fluterrando](https://www.youtube.com/c/Flutterando).
+Tem um sistema de login/logout básico, baseado em JWT e armazenamento local.
+Troca de tema(escuro/claro) para testar o observer em um modulo constante.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pré-requisitos
+Basicamente, somente o [Flutter](https://docs.flutter.dev/get-started/install).
+
+### Instalação
+```bash
+# Clone este repositório
+$ git clone https://github.com/DaniFBN/flutter_training.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd flutter_training
+
+# Instale as dependências
+$ flutter pub get
+
+# Rode no seu dispositivo ou vm
+$ flutter run
+```
+
+### Tecnologias
+- [Flutter](https://flutter.dev)
+- [Modular](https://modular.flutterando.com.br/docs/flutter_modular/start/) - Injeção de dependência e rotas
+- [Triple](https://triple.flutterando.com.br) - Gerência de estado
+- [Hive](https://docs.hivedb.dev/#/) - Armazenamento local
+
