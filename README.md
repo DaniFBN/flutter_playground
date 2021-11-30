@@ -1,6 +1,6 @@
 # Flutter Training
 
-## Este projeto é um conjunto de treinamentos feitos em flutter, focados principalmente na arquitetura com tela apenas para o necessário
+## Este projeto é um conjunto de treinamentos feitos em flutter, focados principalmente na arquitetura e apenas o necessário de tela.
 
 
 ![GitHub](https://img.shields.io/github/license/DaniFBN/flutter_training)
