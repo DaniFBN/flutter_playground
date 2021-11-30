@@ -8,8 +8,8 @@
 Tópicos
 =================
 * [Sobre](#sobre)
-* [Pré-requisitos](#pre-requisitos)
-* [Instalação](#instalacao)
+* [Pré-requisitos](#pré-requisitos)
+* [Instalação](#instalação)
 * [Tecnologias](#tecnologias)
 
 ### Sobre
